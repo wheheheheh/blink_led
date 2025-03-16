@@ -1,0 +1,1 @@
+This rust project uses one led with orange pi pc plus single board computer. The code simply blinks it 10 times, with a 0.5 second break, 12 pin is used for control, the led needs to be connected with a 220 ohm resistor
